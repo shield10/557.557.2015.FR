@@ -3,6 +3,7 @@
 //  OpenGL4Test
 //
 //  Created by Rafael Radkowski on 5/28/15.
+//  Modified by Floyd Richardson [and Dr. Radkowski] on 9/17/15
 //  Copyright (c) 2015 -. All rights reserved.
 //
 
